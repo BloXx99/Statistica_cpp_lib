@@ -14,4 +14,4 @@
 ### VER 0.01 (LATEST)
 
 - Some basic functions that work with standard C style arrays. 
-- At the moment, **All functions definitons are in the same header file as the headers themselves.** **I know it's bad, it will be changed soon.** 
+- At the moment, **All functions definitons are in the same header file as the headers themselves.** **I know it's bad, it will be changed soon...** 
